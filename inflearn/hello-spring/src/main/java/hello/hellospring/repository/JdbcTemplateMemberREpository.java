@@ -44,6 +44,6 @@ public class JdbcTemplateMemberREpository implements MemberRepository{
                 return null;
             }
         }
-        
+
     }
 }
