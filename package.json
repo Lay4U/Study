@@ -1,0 +1,23 @@
+{
+  "name": "pluxity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Lay4U/Study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lay4U/Study/issues"
+  },
+  "homepage": "https://github.com/Lay4U/Study#readme",
+  "devDependencies": {
+    "webpack": "^5.52.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
