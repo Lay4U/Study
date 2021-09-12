@@ -52,6 +52,6 @@ public class ApplicationContextBasicFIndTest {
         assertThrows(NoSuchBeanDefinitionException.class,
                 () -> ac.getBean("xxxxx", MemberService.class));
 
-    }
+    }  
 
 }
